@@ -1,0 +1,6 @@
+[submodule "RTGProjectClient"]
+	path = RTGProjectClient
+	url = https://github.com/ratagdrd/RTGProjectClient.git
+[submodule "RTGProjectServer"]
+	path = RTGProjectServer
+	url = https://github.com/ratagdrd/RTGProjectServer.git
